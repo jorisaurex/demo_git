@@ -1,2 +1,2 @@
 # demo_git
-tuto OPC 
+DEMO : ETAPE 2 : All clear
